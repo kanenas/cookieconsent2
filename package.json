@@ -20,6 +20,6 @@
   "author": "Silktide Ltd.",
   "license": "GPLv3",
   "dependencies": {
-    "yargs": "^3.9.1"
+    "yargs": "^16.0.0"
   }
 }
